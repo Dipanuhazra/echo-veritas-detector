@@ -1,4 +1,4 @@
-# Welcome to your My Fake Review Detection System Project 
+# Welcome to  "My Fake Review Detection System" Project 
 
 ## Project info
 
@@ -7,12 +7,6 @@
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/6dbc272b-532b-42c4-aa75-0ce53caae358) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
