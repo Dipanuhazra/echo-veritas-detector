@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://vercel.com/dipanu-hazras-projects/echo-veritas-detector
+**URL**: https://echo-veritas-detector.vercel.app/
 
 ## How can I edit this code?
 
