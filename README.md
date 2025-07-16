@@ -2,7 +2,6 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6dbc272b-532b-42c4-aa75-0ce53caae358
 **URL**: https://vercel.com/dipanu-hazras-projects/echo-veritas-detector
 
 ## How can I edit this code?
